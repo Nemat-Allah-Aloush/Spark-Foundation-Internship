@@ -4,8 +4,8 @@ Tasks for an internship at the Sparks Foundation at the domain of Data Science a
 ---
 
 ### Index
-1.[Exploratory Data Analysis on ‘Global Terrorism’ dataset](#exploratory-data-analysis-on-global-terrorism-dataset)
-2.To do other tasks.
+1. [Exploratory Data Analysis on ‘Global Terrorism’ dataset](#exploratory-data-analysis-on-global-terrorism-dataset)
+2. To do other tasks.
 
 ---
 ### [Exploratory Data Analysis on ‘Global Terrorism’ dataset](https://github.com/Nemat-Allah-Aloush/Sparks-Foundation-Internship/blob/main/Terrorism_EDA.ipynb)
