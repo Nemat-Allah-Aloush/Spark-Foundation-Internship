@@ -20,6 +20,6 @@ The task is about performing Exploratory Data Analysis on ‘Global Terrorism’
 7. Private Citizens and property were the most injured due to those terrorist attacks. Bombing and Explosions were the most common Attack types. Hence,
 'Expolsives' was the most used weapon among terrorist attacks.
 
-The source code can be also viewed using [Google Colab](https://colab.research.google.com/drive/1kVZLsE50bNApn6JUu-p0OTBeejYBJdOD?usp=share_link) and check a short video through the notebook in [LinkedIn](https://www.linkedin.com/posts/nemat-aloush_task4-gripdec22-gripdecember22-activity-7013101712248872960-6lxG?utm_source=share&utm_medium=member_desktop).
+The source code can be also viewed using [Google Colab](https://colab.research.google.com/drive/1kVZLsE50bNApn6JUu-p0OTBeejYBJdOD?usp=share_link) and check a short video going through the notebook in [LinkedIn](https://www.linkedin.com/posts/nemat-aloush_task4-gripdec22-gripdecember22-activity-7013101712248872960-6lxG?utm_source=share&utm_medium=member_desktop).
 
    
